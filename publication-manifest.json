@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "reviewed": "2026-09-23",
+  "files": {
+    ".gitattributes": {
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
+      "reason": "Normalize line endings for this small text-only public repository."
+    },
+    ".gitignore": {
+      "sha256": "8bb56416326c2c154697beaa302d27a7c94bd37f1fe8e2659ebd8ec05f03a4a3",
+      "reason": "Exclude local settings, secrets, dependencies, and attachments."
+    },
+    ".githooks/pre-commit": {
+      "sha256": "d636613c27818f1178929271fa4efab1caf1e223d93d7beb1c6d52a5faae931c",
+      "reason": "Run the publication allowlist checks before each local commit."
+    },
+    "CC0-1.0.txt": {
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "reason": "Official Creative Commons CC0 1.0 legal text retrieved from creativecommons.org."
+    },
+    "README.md": {
+      "sha256": "ef4a59df192119e0245f48bcc18368376a452a10cd2b96bb9a48b16990d4d6d5",
+      "reason": "Repository scope and license boundaries written for this public notes release."
+    },
+    "notes/linked-list-nodes.md": {
+      "sha256": "b186b8644388521aca3da3385643ca10610275b5e3fbc3005b85cdb1824ee79b",
+      "reason": "Original concise concept summary prepared for this public notes release."
+    },
+    "notes/linked-list-insertion.md": {
+      "sha256": "81c1bbfe0cc2996336792f342e4936074f38f5ad19dfb88090d1a88fc211238f",
+      "reason": "Original concise concept summary prepared for this public notes release."
+    },
+    "templates.md": {
+      "sha256": "bb14c5764ff25de045f3da5b0c103b961578543e219e763397de429977df032e",
+      "reason": "New reusable study and coding templates prepared for this public release."
+    },
+    "scripts/check-publication.mts": {
+      "sha256": "fccd17a144caef1108219bbf83bae8e2b7c2759f1b4079ab1802d6fd2641e086",
+      "reason": "Allowlist-based staged-file and content-hash safeguard written for this release."
+    }
+  }
+}

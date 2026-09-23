@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+.obsidian/
+.claude/
+.claudian/
+node_modules/
+*.pdf
+*.epub
+*.mkv
+*.zip
